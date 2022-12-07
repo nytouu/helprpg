@@ -1,0 +1,23 @@
+#container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#HP {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#textbox
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#bouton
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
